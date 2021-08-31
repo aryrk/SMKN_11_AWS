@@ -33,4 +33,4 @@ Di tahap ini semua asset Page akan terimport dan Navbar juga akan otomais terupd
 
 # Selamat Bekerja!
 
-![Alt Text](https://i.ibb.co/bFsFDSC/288c4c29f337a0fa573490669ae44eac.gif)
+![Alt Text](https://i.pinimg.com/originals/ce/b7/12/ceb712cce626157e75140a9ac1b6a97b.gif)
